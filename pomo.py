@@ -1,3 +1,4 @@
+#!/bin/python
 import time
 import os
 from playsound import playsound
